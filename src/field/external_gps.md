@@ -88,6 +88,8 @@ External GPS functionality depends on the manufacturer and on the specific model
 | Emlid | Emlid Reach M+ | yes | no |
 | Garmin | GLO 2 | yes | yes |
 | Juniper Systems | Geode GNS3 | yes | yes |
+| Carlson | Brx7 | yes (mock location) | no |
+| Carlson | Xml2 | yes (mock location) | no |
 | Leica | Leica FLX100| yes (mock location) | no |
 | Leica | Leica FLX100 plus| yes (mock location) | yes*|
 | Leica | Leica Zeno GG04plus| yes (mock location) | yes* |
